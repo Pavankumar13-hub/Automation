@@ -13,7 +13,7 @@
             "Type": "AWS::Serverless::Function",
             "Properties": {
                 "Handler": "index.handler",
-                "Runtime": "nodejs12.x",
+                "Runtime": "python3.8",
                 "CodeUri": "./",
                 "Environment": {
                     "Variables": {
