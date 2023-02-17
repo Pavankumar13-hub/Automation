@@ -14,7 +14,7 @@
             "Properties": {
                 "Handler": "index.handler",
                 "Runtime": "python3.8",
-                "CodeUri": "./",
+                "CodeUri": "./siq_ram_iot2_sample_test_dev.py",
                 "Environment": {
                     "Variables": {
                         "ORIGIN_URL": { "Ref": "OriginUrl" }
